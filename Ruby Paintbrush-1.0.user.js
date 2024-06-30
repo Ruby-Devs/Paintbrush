@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Ruby Paintbrush
-// @version      1.4
+// @version      1.0
 // @description  Customize Scratch, TurboWarp, and PenguinMod as much as you want using CSS themes. TurboWarp support will come soon.
 // @author       Ruby Devs
 // @match        https://studio.penguinmod.com/*
